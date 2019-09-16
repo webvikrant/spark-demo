@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.example.sparkdemo.HelloWorld
+web: java -jar target/sparkdemo-0.0.1-SNAPSHOT.jar
